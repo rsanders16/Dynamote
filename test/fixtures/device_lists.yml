@@ -1,0 +1,69 @@
+TV1:
+ device_name: Samsung TV
+ device_type: 1
+ modnum: 1
+
+TV2:
+ device_name: Sony TV
+ device_type: 1
+ modnum: 2
+
+TV3:
+ device_name: LG
+ device_type: 1
+ modnum: 3
+
+BluRay1:
+ device_name: Samsung BluRay
+ device_type: 4
+ modnum: 4
+
+BluRay2:
+ device_name: Sony BluRay
+ device_type: 4
+ modnum: 5
+
+BluRay3:
+ device_name: LG BluRay
+ device_type: 4
+ modnum: 6
+
+Reciever1:
+ device_name: Yamaha Reciever
+ device_type: 2
+ modnum: 7
+
+Reciever2:
+ device_name: Denon Reciever
+ device_type: 2
+ modnum: 8
+
+Reciever3:
+ device_name: Pioneer Reciever
+ device_type: 2
+ modnum: 9
+
+DVR1:
+ device_name: Mediacom DVR
+ device_type: 3
+ modnum: 10
+
+DVR2:
+ device_name: TiVo
+ device_type: 2
+ modnum: 11
+
+StreamingMedia1:
+ device_name: AppleTV
+ device_type: 5
+ modnum: AppleTV
+
+StreamingMedia2:
+ device_name: Roku
+ device_type: 5
+ modnum: Roku XS
+
+GameSystem1:
+ device_name: Playstation 3
+ device_type: 6
+ modnum: PS3

@@ -1,0 +1,22 @@
+<remotes>
+	<% @account_id = session[:account].id%>
+	<%@remotes = Remote.where(:account_id => @account_id) %>
+	<%@remotes.each do |r|%>
+	<remote>
+		<id><%= r.id%></id>
+		<name><%=r.name%></name>
+		<buttons>
+			<%@buttons = Button.where(:remote_id =>r.id)%>
+			<![CDATA[<ul>	
+			<% @buttons.each do |b| %>
+				<% @button_id = b.id%>
+				<li id="<%=@button_id%>" style="width: 36px; height: 36px; left: <%=b.pos_x%>px; top: <%=b.pos_y%>px;">
+					<% @icon_name = AvailibleIcon.where(:id => b.icon_id)%>
+					<img src="/images/buttons/<%= @icon_name[0].name %>.png" style="width: 34px; height: 34px;" />
+				</li>
+			<% end%>
+			</ul>]]>
+		</buttons>
+	</remote>
+	<%end%>
+</remotes>

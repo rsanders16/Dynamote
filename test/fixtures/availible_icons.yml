@@ -1,0 +1,115 @@
+up:
+  id: 1
+  name: up
+  user_added: false
+  hex_code: sendir,1:1,1,37000,1,1,173,173,19,20,19,20,19,20,19,20,19,20,19,57,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,173,19,57,19,57,19,57,19,20,19,20,19,57,19,20,19,20,19,20,19,20,19,20,19,20,19,57,19,20,19,57,19,57,19,57,19,57,19,57,19,57,19,2038
+down: 
+  id: 2
+  name: down
+  user_added: false
+  hex_code: sendir,1:1,1,37000,1,1,173,173,19,20,19,20,19,20,19,20,19,20,19,57,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,173,19,57,19,57,19,57,19,20,19,57,19,57,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,57,19,57,19,57,19,57,19,57,19,57,19,2039
+left: 
+  id: 3
+  name: left
+  user_added: false
+  hex_code: sendir,1:1,1,37000,1,1,172,171,19,19,19,19,19,19,19,19,19,19,19,56,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,171,19,56,19,56,19,56,19,19,19,19,19,19,19,56,19,19,19,19,19,19,19,19,19,19,19,56,19,56,19,19,19,56,19,56,19,56,19,56,19,56,19,2020
+right: 
+  id: 4
+  name: right
+  user_added: false
+  hex_code: sendir,1:1,1,37000,1,1,173,173,19,20,19,20,19,20,19,20,19,20,19,57,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,173,19,57,19,57,19,57,19,20,19,57,19,20,19,57,19,20,19,20,19,20,19,20,19,20,19,20,19,57,19,20,19,57,19,57,19,57,19,57,19,57,19,2039
+play: 
+  id: 5
+  name: play
+  user_added: false
+  hex_code: sendir,1:1,1,37000,1,1,173,173,19,20,19,20,19,20,19,20,19,20,19,57,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,173,19,57,19,57,19,57,19,20,19,20,19,57,19,57,19,20,19,20,19,20,19,20,19,20,19,57,19,20,19,20,19,57,19,57,19,57,19,57,19,57,19,2039
+pause: 
+  id: 6
+  name: pause
+  user_added: false
+  hex_code: sendir,1:1,1,37000,1,1,173,173,19,20,19,20,19,20,19,20,19,20,19,57,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,173,19,57,19,57,19,57,19,20,19,20,19,57,19,57,19,20,19,20,19,20,19,20,19,20,19,57,19,20,19,20,19,57,19,57,19,57,19,57,19,57,19,2039
+stop: 
+  id: 7
+  name: stop
+  user_added: false
+home: 
+  id: 8
+  name: home
+  user_added: false
+  hex_code: sendir,1:1,1,37000,1,1,172,173,19,20,19,20,19,20,19,20,19,20,19,57,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,173,19,57,19,57,19,57,19,20,19,57,19,57,19,57,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,20,19,57,19,57,19,57,19,57,19,57,19,2036
+settings: 
+  id: 9
+  name: settings
+  user_added: false
+volumeUp: 
+  id: 10
+  name: volumeUp
+  user_added: false
+volumeDown: 
+  id: 11
+  name: volumeDown
+  user_added: false
+muteToggle: 
+  id: 12
+  name: muteToggle
+  user_added: false
+x: 
+  id: 13
+  name: x
+  user_added: false
+check: 
+  id: 14
+  name: check
+  user_added: false
+powerToggle: 
+  id: 15
+  name: powerToggle
+  user_added: false
+music: 
+  id: 16
+  name: music
+  user_added: false
+tv: 
+  id: 17
+  name: tv
+  user_added: false
+iPod: 
+  id: 18
+  name: iPod
+  user_added: false
+skipForward: 
+  id: 19
+  name: skipForwad
+  user_added: false
+skipBack: 
+  id: 20
+  name: skipBack
+  user_added: false
+reverse: 
+  id: 21
+  name: reverse
+  user_added: false
+forward: 
+  id: 22
+  name: forward
+  user_added: false
+plus: 
+  id: 23
+  name: plus
+  user_added: false
+minus: 
+  id: 24
+  name: minus
+  user_added: false
+record: 
+  id: 25
+  name: record
+  user_added: false
+replay: 
+  id: 26
+  name: replay
+  user_added: false
+eject: 
+  id: 27
+  name: eject
+  user_added: false

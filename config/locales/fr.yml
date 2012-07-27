@@ -1,0 +1,51 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+fr:
+  edit_your_account: Modifier votre compte
+  username: Nom d'utilisateur
+  old_password: Ancien mot de passe
+  new_password: Nouveau mot de passe
+  name: Nom
+  language: Langue
+  you_must_be_logged_in_to_add_a_user: Vous devez être connecté pour ajouter un utilisateur
+  you_must_be_an_administrator_to_add_a_user: Vous devez être administrateur pour ajouter un utilisateur
+  the_data_you_entered_was_not_valid: Les données entrées sont incorrectes
+  the_username_already_exists_try_another_one: Ce nom d'utilisateur existe déjà, essayez un autre
+  account_was_created_successfully: Compte créé avec succès
+  you_must_be_logged_in_to_preform_this_action: Vous devez être connecté pour faire cela
+  you_must_be_an_administrator_to_view_all_accounts: Vous devez être administrateur pour voir tous les comptes
+  to_complete_this_action_no_account_may_be_in_the_database: Pour effectuer cela, aucun compte ne doit être présent sur la base de donnée
+  admin_account_created: Le compte administrateur a été créé avec succès, vous êtes maintenant connecté
+  an_error_happened_while_fetching_account_data: Erreur lors de l'extraction des données du compte
+  you_must_be_logged_in_to_delete_an_account: Vous devez être connectés pour supprimer un compte
+  you_must_be_an_administrator_to_delete_a_user: Vous devez être administrateur pout supprimer un compte
+  you_cannot_delete_the_first_admin_account: Impossible de supprimer le compte du premier administrateur
+  you_cannot_delete_your_own_account_logout_and_have_another_admin_complete_this_task: Impossible de supprimer votre propre compte, demandez à un autre administrateur d'effectuer cette action
+  account_was_deleted: Compte supprimé
+  an_error_happened_while_fetching_your_account_data_please_re_login: Erreur lors de l'extraction des données de votre compte, reconnectez-vous SVP
+  an_error_happened_you_are_being_logged_out: Erreur, deconnexion en cours
+  you_must_be_logged_in_to_edit_an_account: Vous devez être connectés pour modifier un compte
+  new_password_does_not_match_the_old_password: Le nouveau mot de passe ne correspond pas à l'ancien
+  name_field_must_not_be_empty: Le champ nom ne peut pas être vide
+  your_account_info_has_been_updated: Vos informations ont été modifiées
+  you_have_successfully_logged_in: Vous êtes connectés
+  you_have_successfully_logged_out: Vous êtes déconnectés
+  login_unsuccessful: Impossible de se connecter
+  all_accounts: Tous les comptes
+  all_devices: Tous les dispositifs
+  home_page: Accueil
+  edit_account: Mon compte
+  theme: Theme
+  Welcome: Bienvenue
+  administator_mode: MODE ADMINISTRATEUR
+  logout: Déconnexion
+  manage_accounts: Utilisateurs
+  edit_your_account: Modifier votre compte
+  view_all_devices: Dispositifs
+  your_remote: Ma télécommande
+  you_must_be_an_administrator_to_reset_dynamote:  Vous devez être administrateur pour remettre Dynamote à zéro
+  you_must_be_logged_in_to_reset_dynamote: Vous devez être connectés pour remettre Dynamote à zéro
+  reset_dynamote: Remettre à zéro
+  log_out: Fin de Session
+  log_in: Connexion

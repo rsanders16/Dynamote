@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dynamote</title>
+  <%= javascript_include_tag "jquery-1.6.4.min"%>
+  <%= javascript_include_tag "jquery-ui-1.8.16.custom.min.js"%>
+  <%= javascript_include_tag "jquery.mobile-1.0.min.js"%>
+  <%= stylesheet_link_tag "mobile"%>
+  <%= stylesheet_link_tag "jquery.mobile-1.0.min.css"%>
+  <%= javascript_include_tag "gooeymenu" %>
+  <%= javascript_include_tag "ui.tabs.closable.js"%>
+  <%= javascript_include_tag "builder.js"%>
+  <%= csrf_meta_tags %>
+</head>
+
+
+<body style='background: url("/images/black.jpg"); width: 500px'>
+
+<% if session[:is_authenticated] and session[:account].is_admin == true %>
+    <div style="color: #c12d2e;"><%= t :administator_mode %></div>
+<% else %>
+    <div class="hidden">HIDDEN TEXT</div>
+<% end %>
+<div> <a href="/" >
+    <img src="/images/dm_logo3.png" />
+</a>
+</div>
+<!-- Outside Container for Content -->
+<div>
+  <!-- Displays bar if Error Occurs -->
+  <div id="flash_bar" class="ui-corner-all">
+    <% if flash[:error] %>
+        <div id="error_bar" class="ui-corner-all">
+          <%= flash[:error] %>
+        </div>
+    <% elsif flash[:notice] %>
+        <div style="background-color: #90ee90;color: black;" id="notice_bar" class="ui-corner-all">
+          <%= flash[:notice] %>
+        </div>
+    <% else %>
+        <div style="background-color: #90ee90;color: black;" id="info_bar" class="ui-corner-all">
+          <%= flash[:notice] %>
+        </div>
+    <% end %>
+  </div>
+
+  <div style="background-color: gray;">
+    <% if session[:is_authenticated] == true %>
+        <% if session[:is_authenticated] and session[:account].name != nil %>
+            <div style="color: #f5f5f5;"><%="Logged in as: " + session[:account].name %></div>
+        <% end %>
+    <% end %>
+  </div>
+  <!-- Navigation Menu-->
+  <div style="background-color: #d3d3d3;">
+    <% if session[:is_authenticated] == true %>
+
+        <div style="border: #000000;border-bottom-width: 1px; border-bottom-style: solid"><%= link_to(t(:log_out), :controller=>'account', :action=>'logout') %></div>
+        <% if session[:account].is_admin == true %>
+            <div style="border: #000000;border-bottom-width: 1px; border-bottom-style: solid"><%= link_to(t(:manage_accounts), :controller => 'account', :action =>"view_all") %></div>
+            <div style="border: #000000;border-bottom-width: 1px; border-bottom-style: solid"><%= link_to(t(:reset_dynamote), :controller => 'account', :action =>"reset") %></div>
+        <% end %>
+        <div style="border: #000000;border-bottom-width: 1px; border-bottom-style: solid"><%= link_to(t(:edit_your_account), :controller => 'account', :action =>"edit") %></div>
+        <div style="border: #000000;border-bottom-width: 1px; border-bottom-style: solid"><%= link_to(t(:view_all_devices), :controller => 'device', :action => 'view_all') %></div>
+        <div style="border: #000000;border-bottom-width: 1px; border-bottom-style: solid"><%= link_to(t(:your_remote),:controller=>'builder', :action=>'index' ) %></div>
+
+    <% else if Account.count == 0 %>
+        <div style="border: #000000;border-bottom-width: 1px; border-bottom-style: solid"><%=link_to(t(:create_new_account), :controller =>'account', :action =>"add_admin")%></div>
+
+    <%else%>
+        <div style="border: #000000;border-bottom-width: 1px; border-bottom-style: solid"><%=link_to(t(:log_in), :controller =>'account', :action =>"login")%></div>
+    <%end%>
+        <% end %>
+
+
+  </div>
+
+</div>
+</div>
+<div align="center"><img src = "images/fake.png" width="400px"/></div> <br>
+<%= link_to "Regular Site", :controller => "home", :action => "set_layout", :mobile => "0" %>
+</body>
+</html>
+

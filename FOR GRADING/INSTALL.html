@@ -1,0 +1,88 @@
+<h1>Installing Dynamote</h1>
+
+<p>Note: if you are a windows user, then you can simply use <a href="http://railsinstaller.org/">Rails Installer</a> and skip to step 4</p>
+
+<h2>Step 1: Installing Ruby</h2>
+
+<p>Dynamote runs on Ruby on Rails.  Rails is a framework that runs on Ruby.
+You can install Ruby a number of ways, but here is an overview of the steps:</p>
+
+<h3>Check your Ruby version</h3>
+
+<p>Ruby 1.8.6 comes standard with Mac OSX 10.5 and above. This can be
+achieved by typing <code>ruby --version</code> in the terminal.  If you are running on a windows machine, 
+then you can use <a href="http://rubyinstaller.org/downloads/">ruby installer</a>. </p>
+
+<h3>Install Ruby</h3>
+
+<p>If ruby is not installed, (<code>ruby --version</code> came up empty) then you can use <a href="http://beginrescueend.com/">Ruby Version Manager</a> (RVM) to install.  Simply run the following commands (this requires <a href="http://git-scm.com/">git</a>):
+<code>$ bash &lt; &lt;(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)</code> and
+<code>rvm install 1.9.3</code>. You can check your ruby version again to verify you have ruby 1.9.3.</p>
+
+<h2>Step 2: Installing RubyGems</h2>
+
+<p>RubyGem is a system that is akin to packages in Java. It is a way to manage libraries that can be used by ruby.
+To install RubyGems, run the following code in the Terminal: <br>
+<code>
+curl -O http://rubyforge.iasi.roedu.net/files/rubygems/rubygems-1.3.1.tgz <br>
+tar xzvf rubygems-1.3.1.tgz 
+cd rubygems-1.3.1 <br>
+sudo /usr/local/bin/ruby setup.rb <br>
+cd ..
+</code></p>
+
+<h2>Step 3: Installing Rails</h2>
+
+<p>Now we are ready to install rails.  Rails is just a RubyGem, so it can be installed like this: <br>
+<code>sudo gem install rails</code> <br>
+This will also install all the libraries it needs to make sure rails works.  It also installs a UNIX program
+called <em>rails</em>.  You can type <code>$ which rails</code> to verify. <br>
+    Also, there is a gem we will need called <em>mysql2</em>.  This is gem that helps rails talk to mySQL, which 
+will be set up in step 4.  </p>
+
+<h2>Step 4: Installing MySQL</h2>
+
+<h3>Verifying</h3>
+
+<p>Dynamote uses MySQL as its primary database.  To check if you have MySQL installed already, you can type 
+<code>which mysql</code> or <code>mysql --version</code> it does NOT come pre-installed on mac,windows or most linux distributions.</p>
+
+<h3>Downloading</h3>
+
+<pre><code>Head to the [MySQL download page](http://dev.mysql.com/downloads/mysql) to download the latest version.
+</code></pre>
+
+<p>Make sure you use the 32-bit or 64-bit version depending on your hardware architecture.</p>
+
+<h3>Installing</h3>
+
+<pre><code>Run `mysql-[version number]-[OS]-[hardware architecture].pkg` first, to install MySQL.  You may want to install
+</code></pre>
+
+<p>The preference pane too, because that makes it easier to activate or deactivate the MySQL server.
+    You may also want to verify MySQL is installed properly.  Open up a Terminal, and type <code>$ which mysql</code> to see
+where the mysql binaries are located.  Also verify that this directory is in your PATH by typing <code>$ echo path</code>.
+This is usually done during the installation.</p>
+
+<h3>Setting up MySQL for Dynamote</h3>
+
+<p>Type <code>$ mysql -u root</code> in a Terminal window to open the MySQL monitor as a <em>root user</em> (if you set up a root password already, add <code>-p</code> and then type your password.)  To see the databases, 
+type <code>SHOW DATABASES;</code> to view what databases are there.  If everything looks correct, you are ready to create the
+database that Dynamote will use. <br>
+    While still in the MySQL monitor, type <code>CREATE DATABSE dynamote_development;</code>.  This creates a container for
+Dynamote's data.  Now we need to create a user for the dynamote app: <br>
+<code>GRANT ALL PRIVILEGES ON dynamote_development.* 
+TO 'dynamote_user'@'localhost' <br>
+IDENTIFIED BY 'rordm319';</code> <br>
+where 'rordm319' is the password used to access dynamote's database as dynamote_user. <br>
+    Dynamote is almost set up.  Open a terminal window to the folder where Dynamote was installed.
+From here, run the command <code>$ rake db:migrate</code> to run Dynamote's migrations on the mysql server.  Migrations are
+a Rails convention used to set up a database from Ruby files, so that it is set up the same way every time.</p>
+
+<h2>Step 5: Running Dynamote</h2>
+
+<p>Now, from a Terminal window in the Dynamote directory, type <code>rails server</code> to start a WEBrick server. (WEBrick comes
+with Rails automatically.)  If there were no problems with the setup, you should be able to go to the 
+link provided by WEBrick (usually localhost:8080) to use Dynamote.</p>
+
+<h1>Resources</h1>

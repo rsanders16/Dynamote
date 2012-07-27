@@ -1,0 +1,50 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+sp:
+  edit_your_account: Editar su Cuenta
+  username: Nombre de Usuario
+  old_password: Contraseña Antigua
+  new_password: Una nueva contraseña
+  name: Nombre
+  language: Lengua
+  you_must_be_logged_in_to_add_a_user: Usted debe estar registrado para añadir un usuario
+  you_must_be_an_administrator_to_add_a_user: Usted debe ser un administrador para agregar un usuario
+  the_data_you_entered_was_not_valid: Los datos que has introducido no es válido
+  the_username_already_exists_try_another_one: El nombre de usuario ya existe, probar con la otra
+  account_was_created_successfully: Cuenta se ha creado correctamente
+  you_must_be_logged_in_to_preform_this_action: Debe estar conectado a la preforma esta acción
+  you_must_be_an_administrator_to_view_all_accounts: Usted debe ser un administrador para ver todas las cuentas
+  to_complete_this_action_no_account_may_be_in_the_database: Para completar esta acción, no tiene en cuenta puede estar en la base de datos
+  admin_account_created: Cuenta de administrador se ha creado y que se registran ahora en
+  an_error_happened_while_fetching_account_data: Un error ocurrió mientras recogía datos de la cuenta
+  you_must_be_logged_in_to_delete_an_account: Usted debe estar conectado para eliminar una cuenta
+  you_must_be_an_administrator_to_delete_a_user: Usted debe ser un administrador para eliminar un usuario
+  you_cannot_delete_the_first_admin_account: No se puede eliminar la cuenta admin creó por primera vez
+  you_cannot_delete_your_own_account_logout_and_have_another_admin_complete_this_task: No se puede eliminar su propia cuenta, salir tener otro administrador de completar esta tarea
+  account_was_deleted: Cuenta se ha eliminado
+  an_error_happened_while_fetching_your_account_data_please_re_login: Un error ocurrió mientras recogía los datos de cuenta, por favor vuelve a iniciar sesión
+  an_error_happened_you_are_being_logged_out: Un error ocurrido se le está desconectado
+  you_must_be_logged_in_to_edit_an_account: Debe estar registrado para editar una cuenta
+  new_password_does_not_match_the_old_password: La nueva contraseña no coincide con la contraseña antigua
+  name_field_must_not_be_empty: Nombre no debe estar vacío
+  your_account_info_has_been_updated: La información de su cuenta ha sido actualizada
+  you_have_successfully_logged_in: Usted ha entrado con éxito en
+  you_have_successfully_logged_out: Ha cerrado la sesión
+  login_unsuccessful: Inicio de sesión sin éxito
+  all_accounts: Las cuentas
+  all_devices: Todos los dispositivos
+  home_page: Página de inicio
+  edit_account: Cuenta
+  theme: Tema
+  Welcome: Bienvenida
+  administator_mode: ADMINISTRADOR DE MODO
+  logout: Logout
+  manage_accounts: Cuentas
+  edit_your_account: Su cuenta
+  view_all_devices: Dispositivos
+  your_remote: Distancia
+  you_must_be_an_administrator_to_reset_dynamote: Debe ser un Administrador para restablecer Dynamote
+  you_must_be_logged_in_to_reset_dynamote: Usted debe estar registrado para restablecer Dynamote
+  reset_dynamote: Restablecer Dynamote
+  log_out: Logout

@@ -1,0 +1,185 @@
+<remotes>
+	<remote>
+		<id>0</id>
+		<name>iPod</name>
+		<buttons>
+			<![CDATA[<ul>
+				<li id="1" style="width: 36px; height: 36px; left: 72px; top: 0px;">
+					<img src="/images/buttons/music.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="2" style="width: 36px; height: 36px; left: 162px; top: 0px;">
+					<img src="/images/buttons/tv.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="3" style="width: 36px; height: 36px; left: 72px; top: 54px;">
+					<img src="/images/buttons/up.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="4" style="width: 36px; height: 36px; left: 198px; top: 54px;">
+					<img src="/images/buttons/volumeUp.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="5" style="width: 36px; height: 36px; left: 18px; top: 108px;">
+					<img src="/images/buttons/left.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="6" style="width: 36px; height: 36px; left: 72px; top: 108px;">
+					<img src="/images/buttons/record.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="7" style="width: 36px; height: 36px; left: 126px; top: 108px;">
+					<img src="/images/buttons/right.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="8" style="width: 36px; height: 36px; left: 198px; top: 108px;">
+					<img src="/images/buttons/muteToggle.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="9" style="width: 36px; height: 36px; left: 72px; top: 162px;">
+					<img src="/images/buttons/down.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="10" style="width: 36px; height: 36px; left: 198px; top: 162px;">
+					<img src="/images/buttons/volumeDown.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="12" style="width: 36px; height: 36px; left: 108px; top: 234px;">
+					<img src="/images/buttons/play.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="14" style="width: 36px; height: 36px; left: 36px; top: 252px;">
+					<img src="/images/buttons/skipBack.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="15" style="width: 36px; height: 36px; left: 108px; top: 298px;">
+					<img src="/images/buttons/pause.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="16" style="width: 36px; height: 36px; left: 180px; top: 252px;">
+					<img src="/images/buttons/skipForward.png" style="width: 34px; height: 34px;" />
+				</li>
+			</ul>]]>
+		</buttons>
+	</remote>
+	<remote>
+		<id>1</id>
+		<name>BluRay</name>
+				<buttons>
+			<![CDATA[<ul>
+				<li id="1" style="width: 36px; height: 36px; left: 72px; top: 0px;">
+					<img src="/images/buttons/ipod.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="2" style="width: 36px; height: 36px; left: 162px; top: 0px;">
+					<img src="/images/buttons/tv.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="3" style="width: 36px; height: 36px; left: 72px; top: 54px;">
+					<img src="/images/buttons/up.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="4" style="width: 36px; height: 36px; left: 198px; top: 54px;">
+					<img src="/images/buttons/volumeUp.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="5" style="width: 36px; height: 36px; left: 18px; top: 108px;">
+					<img src="/images/buttons/left.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="6" style="width: 36px; height: 36px; left: 72px; top: 108px;">
+					<img src="/images/buttons/record.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="7" style="width: 36px; height: 36px; left: 126px; top: 108px;">
+					<img src="/images/buttons/right.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="8" style="width: 36px; height: 36px; left: 198px; top: 108px;">
+					<img src="/images/buttons/muteToggle.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="9" style="width: 36px; height: 36px; left: 72px; top: 162px;">
+					<img src="/images/buttons/down.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="10" style="width: 36px; height: 36px; left: 198px; top: 162px;">
+					<img src="/images/buttons/volumeDown.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="11" style="width: 36px; height: 36px; left: 36px; top: 234px;">
+					<img src="/images/buttons/reverse.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="12" style="width: 36px; height: 36px; left: 108px; top: 234px;">
+					<img src="/images/buttons/play.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="13" style="width: 36px; height: 36px; left: 180px; top: 234px;">
+					<img src="/images/buttons/forward.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="14" style="width: 36px; height: 36px; left: 36px; top: 270px;">
+					<img src="/images/buttons/skipBack.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="15" style="width: 36px; height: 36px; left: 108px; top: 270px;">
+					<img src="/images/buttons/pause.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="16" style="width: 36px; height: 36px; left: 180px; top: 270px;">
+					<img src="/images/buttons/skipForward.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="17" style="width: 36px; height: 36px; left: 36px; top: 306px;">
+					<img src="/images/buttons/replay.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="18" style="width: 36px; height: 36px; left: 108px; top: 306px;">
+					<img src="/images/buttons/stop.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="19" style="width: 36px; height: 36px; left: 180px; top: 306px;">
+					<img src="/images/buttons/record.png" style="width: 34px; height: 34px;" />
+				</li>
+			</ul>]]>
+		</buttons>
+	</remote>
+	<remote>
+		<id>3</id>
+		<name>DVR</name>
+		<buttons>
+			<![CDATA[<ul>
+				<li id="1" style="width: 36px; height: 36px; left: 72px; top: 0px;">
+					<img src="/images/buttons/ipod.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="2" style="width: 36px; height: 36px; left: 162px; top: 0px;">
+					<img src="/images/buttons/music.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="3" style="width: 36px; height: 36px; left: 72px; top: 54px;">
+					<img src="/images/buttons/up.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="4" style="width: 36px; height: 36px; left: 198px; top: 54px;">
+					<img src="/images/buttons/volumeUp.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="5" style="width: 36px; height: 36px; left: 18px; top: 108px;">
+					<img src="/images/buttons/left.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="6" style="width: 36px; height: 36px; left: 72px; top: 108px;">
+					<img src="/images/buttons/record.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="7" style="width: 36px; height: 36px; left: 126px; top: 108px;">
+					<img src="/images/buttons/right.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="8" style="width: 36px; height: 36px; left: 198px; top: 108px;">
+					<img src="/images/buttons/muteToggle.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="9" style="width: 36px; height: 36px; left: 72px; top: 162px;">
+					<img src="/images/buttons/down.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="10" style="width: 36px; height: 36px; left: 198px; top: 162px;">
+					<img src="/images/buttons/volumeDown.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="11" style="width: 36px; height: 36px; left: 18px; top: 234px;">
+					<img src="/images/buttons/reverse.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="12" style="width: 36px; height: 36px; left: 72px; top: 234px;">
+					<img src="/images/buttons/play.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="13" style="width: 36px; height: 36px; left: 126px; top: 234px;">
+					<img src="/images/buttons/forward.png" style="width: 34px; height: 34px;" />
+				</li>
+                <li id="14" style="width: 36px; height: 36px; left: 198px; top: 234px;">
+					<img src="/images/buttons/plus.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="16" style="width: 36px; height: 36px; left: 72px; top: 270px;">
+					<img src="/images/buttons/pause.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="18" style="width: 36px; height: 36px; left: 18px; top: 306px;">
+					<img src="/images/buttons/replay.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="19" style="width: 36px; height: 36px; left: 72px; top: 306px;">
+					<img src="/images/buttons/stop.png" style="width: 34px; height: 34px;" />
+				</li>
+				<li id="20" style="width: 36px; height: 36px; left: 126px; top: 306px;">
+					<img src="/images/buttons/record.png" style="width: 34px; height: 34px;" />
+				</li>
+                <li id="21" style="width: 36px; height: 36px; left: 198px; top: 234px;">
+					<img src="/images/buttons/plus.png" style="width: 34px; height: 34px;" />
+				</li>
+                <li id="22" style="width: 36px; height: 36px; left: 198px; top: 306px;">
+					<img src="/images/buttons/minus.png" style="width: 34px; height: 34px;" />
+				</li>
+			</ul>]]>
+		</buttons>	
+    </remote>
+</remotes>

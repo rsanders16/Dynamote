@@ -1,0 +1,14 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+# This model initially had no columns defined.  If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+Button1:
+  size_x: 0
+  size_y: 0
+  pos_x: 0
+  pos_y: 0
+  icon_id: 1
+  macro_id: 0
+  remote_id: 718352447

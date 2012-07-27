@@ -1,0 +1,33 @@
+<div align="center">
+  <h1>Create Admin Account</h1>
+  <%= form_tag({:controller => "account", :action => "do_add_admin"}) do %>
+      <table>
+        <tr>
+          <th>
+            <%= label_tag(:username, "Username:") %>
+          </th>
+          <td>
+            <%= text_field_tag(:username) %>
+          </td>
+        </tr>
+        <tr>
+          <th>
+            <%= label_tag(:password, "Password:") %>
+          </th>
+          <td>
+            <%= password_field_tag(:password) %>
+          </td>
+        </tr>
+        <tr>
+          <th>
+            <%= label_tag(:name, "Name:") %>
+          </th>
+          <td>
+            <%= text_field_tag(:name) %>
+          </td>
+        </tr>
+      </table>
+            <%= submit_tag("Create Admin Account") %>
+  <% end %>
+</div>
+

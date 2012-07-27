@@ -1,0 +1,78 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+# This model initially had no columns defined.  If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+#one: {}
+# column: value
+#
+#two: {}
+#  column: value
+
+play:
+
+  supported_device_id:
+  code_name: play
+  user_added: false
+
+pause:
+
+  supported_device_id:
+  code_name: pause
+  user_added: false
+
+
+forward:
+
+  supported_device_id:
+  code_name: forward
+  user_added: false
+
+stop:
+
+  supported_device_id:
+  code_name: stop
+  user_added: false
+
+skipback:
+
+  supported_device_id:
+  code_name: skipback
+  user_added: false
+
+skipforward:
+
+  supported_device_id:
+  code_name: skipforward
+  user_added: false
+
+up:
+
+  supported_device_id:
+  code_name: up
+  user_added: false
+
+down:
+
+  supported_device_id:
+  code_name: down
+  user_added: false
+
+left:
+
+  supported_device_id:
+  code_name: left
+  user_added: false
+
+right:
+
+  supported_device_id:
+  code_name: right
+  user_added: false
+
+select:
+
+  supported_device_id:
+  code_name: select
+  user_added: false

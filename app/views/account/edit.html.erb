@@ -1,0 +1,57 @@
+<h1 style="padding-left: 10px;"><%= t :edit_your_account %></h1>
+<div align="center">
+<%= form_tag({:controller => "account", :action => "do_edit"}) do %>
+    <table>
+      <tr>
+        <th>
+          <%= label_tag(:username, t(:username)+":") %>
+        </th>
+        <td>
+          <%= @account.username %>
+        </td>
+      </tr>
+      <tr>
+        <th>
+          <%= label_tag(:password, t(:old_password)+":") %>
+        </th>
+        <td>
+          <%= password_field_tag(:old_password) %>
+        </td>
+      </tr>
+      <tr>
+        <th>
+          <%= label_tag(:password, t(:new_password)+":") %>
+        </th>
+        <td>
+          <%= password_field_tag(:new_password) %>
+        </td>
+      </tr>
+      <tr>
+        <th>
+          <%= label_tag(:name, t(:name)+":") %>
+        </th>
+        <td>
+          <%= text_field_tag(:name, @account.name) %>
+        </td>
+      </tr>
+      <tr>
+        <th>
+          <%= label_tag(:locale, t(:language)+":") %>
+        </th>
+        <td>
+          <%= select_tag(:locale, options_for_select([['English', 'en'], ['Pirate', 'pirate'], ['Spanish', 'sp'],['French','fr']]), {:prompt => 'Select One'}) %>
+        </td>
+      </tr>
+      <tr>
+      <tr>
+        <th>
+          <%= label_tag(:theme, t(:theme)+":") %>
+        </th>
+        <td>
+          <%= select_tag(:theme, options_for_select([['Black', 'black'], ['White', 'white'], ['Blue', 'blue'],['Green', 'green'], ['Purple','purple'],['Orange','orange'],['Rainbow','rainbow'],['Natalie Portman','np']]), {:prompt => 'Select One'}) %>
+        </td>
+      </tr>
+    </table>
+          <%= submit_tag(t :edit_account) %>
+<% end %>
+</div>

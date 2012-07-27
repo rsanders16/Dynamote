@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dynamote</title>
+  <%= javascript_include_tag "jquery-1.6.4.min"%>
+  <%= javascript_include_tag "jquery.mobile-1.0.min.js"%>
+  <%= stylesheet_link_tag "jquery.mobile-1.0.min.css"%>
+  <%= stylesheet_link_tag "mobile"%>
+  <%= javascript_include_tag "builder.js"%>
+  <%= csrf_meta_tags %>
+  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+</head>
+<body>
+<%= yield %>
+</body>
+</html>
+

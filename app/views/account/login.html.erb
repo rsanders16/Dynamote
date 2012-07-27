@@ -1,0 +1,24 @@
+<h1 style="padding-left: 10px;">Login</h1>
+<div align="center">
+	<%= form_tag({:controller => "account", :action => "do_login"}) do %>
+	<table>
+		<tr>
+			<th>
+				<%= label_tag(:username, "Username:") %>
+			</th>
+			<td>
+				<%= text_field_tag(:username) %>
+			</td>
+		</tr>
+		<tr>
+			<th>
+				<%= label_tag(:password, "Password:") %>
+			</th>
+			<td>
+				<%= password_field_tag(:password) %>
+			</td>
+		</tr>
+	</table>
+	<%= submit_tag("Login") %>
+	<% end %>
+</div>

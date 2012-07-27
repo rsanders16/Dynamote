@@ -1,0 +1,67 @@
+
+.tab_size_fixer {
+	overflow-y:hidden;
+	max-height:39px;
+	
+/*	width:220px; */
+	
+}
+.tab_size_fixer, a{
+	float:right;
+}
+.close_fixer {
+	float:top-right;
+}
+#library {
+    width: 120px;
+    padding: 5px;
+	position: relative;
+	float: right;
+}
+#device-selector {
+    width:100%;
+}
+#buttons-trash {
+    margin: 10px;
+    padding: 5px 5px 5px 15px;
+}
+#tabs {
+	display: inline-block;
+	width:80%;
+	position: relative;
+}
+.remote-container {
+	float: left;
+	margin-left: 40%;
+    border: 2px outset black;
+}
+.remote-container .label {
+	font: bold 18pt arial, sans-serif gray;
+	color: gray;
+	text-align: center;
+	border-bottom: 1px solid #BFBFBF;
+}
+.remote .buttons-list {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+}
+.remote-button {
+	list-style: none;
+	position: absolute;
+}
+#library .buttons-list {
+	clear: both;
+	display: none;
+	padding:0;
+}
+.library-button {
+	float: left;
+	list-style: none;
+}
+#trash {
+	padding: 0;
+}
+.hovered {
+    border-color: red;
+}

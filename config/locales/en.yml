@@ -1,0 +1,52 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  edit_your_account: Edit Your Account
+  username: Username
+  old_password: Old Password
+  new_password: New Password
+  name: Name
+  language: Language
+  you_must_be_logged_in_to_add_a_user: You must be logged in to add a user
+  you_must_be_an_administrator_to_add_a_user: You must be an administrator to add a user
+  the_data_you_entered_was_not_valid: The data you entered was not valid
+  the_username_already_exists_try_another_one: This username already exists, try another one
+  account_was_created_successfully: Account was created successfully
+  you_must_be_logged_in_to_preform_this_action: You must be logged in to preform this action
+  you_must_be_an_administrator_to_view_all_accounts: You must be an administrator to view all accounts
+  to_complete_this_action_no_account_may_be_in_the_database: To complete this action, no account may be in the database
+  admin_account_created: Admin account was created successfully and you are now logged in
+  an_error_happened_while_fetching_account_data: An error happened while fetching account data
+  you_must_be_logged_in_to_delete_an_account: You must be logged in to delete an account
+  you_must_be_an_administrator_to_delete_a_user: You must be an administrator to delete a user
+  you_cannot_delete_the_first_admin_account: You cannot delete the first admin account created
+  you_cannot_delete_your_own_account_logout_and_have_another_admin_complete_this_task: You cannot delete your own account, logout have another administrator complete this task
+  account_was_deleted: Account was deleted
+  an_error_happened_while_fetching_your_account_data_please_re_login: An error happened while fetching your account data please re-login
+  an_error_happened_you_are_being_logged_out: An error happened you are being logged out
+  you_must_be_logged_in_to_edit_an_account: You must be logged in to edit an account
+  new_password_does_not_match_the_old_password: New password does not match the old password
+  name_field_must_not_be_empty: Name field must not be empty
+  your_account_info_has_been_updated: Your account info has been updated
+  you_have_successfully_logged_in: You have successfully logged in
+  you_have_successfully_logged_out: You have successfully logged out
+  login_unsuccessful: Login Unsuccessful
+  all_accounts: All Accounts
+  all_devices: All Devices
+  home_page: Home Page
+  edit_account: Edit Account
+  theme: Theme
+  Welcome: Welcome
+  administator_mode: ADMINISTRATOR MODE
+  logout: Logout
+  manage_accounts: Manage Accounts
+  edit_your_account: Edit Your Account
+  view_all_devices: View All Devices
+  your_remote: Your Remote
+  you_must_be_an_administrator_to_reset_dynamote:  You must be an administrator to reset Dyanmote
+  you_must_be_logged_in_to_reset_dynamote: You must be logged in to reset Dynamote
+  reset_dynamote: Reset Dynamote
+  log_in: Log In
+  log_out: Log Out
+  create_new_account: Create New Account

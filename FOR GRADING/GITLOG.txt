@@ -1,0 +1,1091 @@
+commit 4759a4baac9e7456f14aae7372e46cbc40ce9269
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Fri Dec 16 02:33:47 2011 -0600
+
+    IT WORKS NOW HAHAHAHAHAHAHAHAH
+
+commit 7a15889833b37ee5367dd8bde8ece3e4c0aed3f1
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Fri Dec 16 02:08:40 2011 -0600
+
+    Fixed buttons multiple 
+
+commit a8883a6cd003b9e74c962beeac0370f41f33e9e4
+Merge: e17a72e 49712a5
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Fri Dec 16 02:02:23 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit e17a72ecd9b8516d195ebf4e89a49b764d31e4b9
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Fri Dec 16 02:02:07 2011 -0600
+
+    ajax
+
+commit 49712a58f2a67fc42e2bc1d41bac031758da0814
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Fri Dec 16 02:02:07 2011 -0600
+
+    move and remove implemented
+
+commit c90cc737750d3ea741758cb4a79bde40d4ce67c8
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Fri Dec 16 01:57:50 2011 -0600
+
+    hi
+
+commit 7031e1192151261793ce7d9c69f2b57669d84003
+Merge: 1c8ca85 fd8ac03
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Fri Dec 16 01:52:00 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 1c8ca858bced3a5ed71d06b17650c06f6cd3c0f1
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Fri Dec 16 01:51:49 2011 -0600
+
+    button move
+
+commit fd8ac0319f904d0c9af5305559361ae40830e5ee
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Fri Dec 16 01:51:47 2011 -0600
+
+    button move
+
+commit 3f92c3b18b5650397a85c0f213c0856173dae598
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Fri Dec 16 01:47:42 2011 -0600
+
+    ajax_controller.rb
+
+commit d9720b0104d8c113d18e49877cd10dba91688374
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Fri Dec 16 01:43:28 2011 -0600
+
+    wait
+
+commit 08d8130ea3e27a1062dd4ffb9403340ee40bec43
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Fri Dec 16 01:09:54 2011 -0600
+
+    dfs
+
+commit 8749d89b3b8801b4f5d4eb33d453b2ddd1c685aa
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Fri Dec 16 01:04:19 2011 -0600
+
+    df
+
+commit a7dd399c1046c99994285b1d70eccd4a0d3ed785
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Fri Dec 16 00:43:50 2011 -0600
+
+    df
+
+commit 0b32bb2e214cba21bf50d87c398f1c0f298c2738
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Fri Dec 16 00:42:03 2011 -0600
+
+    sdljn
+
+commit c1202192ee7c7c99650ac9f352c9e01580a89aff
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Fri Dec 16 00:33:15 2011 -0600
+
+    pushing
+
+commit 0a1e0381bb841eefd572541c3efbef68650b78ca
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Fri Dec 16 00:20:35 2011 -0600
+
+    mobile click
+
+commit e45f88fdd4288cbda9b7ed043be8f683919f2d5d
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Fri Dec 16 00:05:32 2011 -0600
+
+    dsf
+
+commit 30da0694f0c0f03d36edbc90d534eb9e23b89bc1
+Merge: 22d48bd a3320a0
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 23:53:51 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit a3320a0aa8b5eba2b83937c66d28f2d733df1e8a
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 23:53:35 2011 -0600
+
+    fixed /r
+
+commit 22d48bd5097fe01f4339470ff0eb7e214c4e5a53
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 23:53:16 2011 -0600
+
+    ruby fix
+
+commit a33e589d1d48a1dc86f50d03c8ab7c0ec52322f5
+Merge: 6ad8ed5 85fa26b
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 23:48:28 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 6ad8ed59d9c7c18a935c0fa3e879d0f283f9264f
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 23:48:17 2011 -0600
+
+    stuff
+
+commit 85fa26b61109b17908261cdc0cb41edaa396b529
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 23:47:32 2011 -0600
+
+    fixed limit on hex_code row
+
+commit 7f0ba0a55e08aad0b64f66dd8674afd458176db7
+Merge: 582010a da7c474
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 23:23:01 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 582010a20187a44fc6417c501a917bcf97233b9e
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 23:22:24 2011 -0600
+
+    fixture and ir codes
+
+commit da7c474d44b769f9cbe28ddda0e2df495c20ee8a
+Merge: 8014e77 7d51501
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 23:22:16 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 8014e7795f6eda0328a73b7c00773eef43887fb9
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 23:21:48 2011 -0600
+
+    fixed some stuff plsu etc
+
+commit 7d515014a646b57194fd17f95f2164903e63d0eb
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 23:00:34 2011 -0600
+
+    fixed migrations
+
+commit eb6befe67e0bc1815314e62992c869707bc25c8a
+Merge: 694ffc0 92a8d1d
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 22:40:23 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 92a8d1d8895f0c02d38aadcce5ff2e91941365cd
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 22:40:02 2011 -0600
+
+    shooting for the moo
+
+commit 694ffc076804e538445890a9dec5dbe20abb95b8
+Merge: 667a410 05688d0
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 22:27:04 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 05688d0189c93d20fa30decc6061946aaaeb9723
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 22:26:15 2011 -0600
+
+    got rid of binary from availible_icons
+
+commit 667a4107f819145d4702d201a93b8d64dc00802f
+Merge: c1a6d4f e286b38
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 22:23:48 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit e286b383f0ba717f50245e12698747c470402894
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 22:23:25 2011 -0600
+
+    this should work...
+
+commit c1a6d4fd86e119e7d945563767965112fa35e76d
+Merge: 5a4e1ff 7fd4f5b
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 22:21:25 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 7fd4f5b843d4ef94c8e5452028bc789630de51f8
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 22:21:03 2011 -0600
+
+    that was bad haha
+
+commit 5a4e1ffd0442faed00abb19e34cfadb1a5e10530
+Merge: d2cd9c5 2de4557
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 22:20:30 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 2de455764fcde0106c8eb8d3d57d7c8000feaab4
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 22:20:07 2011 -0600
+
+    byaa
+
+commit d2cd9c5f79169f48f476e86f1aed7b89b8fea9d5
+Merge: 87756d8 97a00b8
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 22:15:58 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 97a00b8ee0cfa0ec7efff2b0714e4317712867fd
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 22:15:16 2011 -0600
+
+    added the rest of the ajax controller i forgot
+
+commit 87756d8a885548fa21761ce26b977678f543421f
+Merge: b1443e6 fc10d5b
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 22:13:08 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit b1443e6c269a71c4abffe1d94be0f16ef662087d
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 22:13:00 2011 -0600
+
+    saf
+
+commit fc10d5b33f1cafaea7f0f48980394f34737e4e0d
+Merge: 6ca6555 b964c2b
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 22:09:15 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 6ca6555d96a90114bcc2f0643a896de2a94e92d4
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 22:08:42 2011 -0600
+
+    Added XML sauce.
+
+commit b964c2b34e2bf4a241beefb492c0584ba3682b78
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 21:59:37 2011 -0600
+
+    working on updates
+
+commit 520f317a5b154574cbc74ddfdfe938e820f2d509
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 18:06:11 2011 -0600
+
+    fixes in mobile site
+
+commit 588cd09268451f29db6949685e87c84a965f925f
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 17:23:33 2011 -0600
+
+    mobile viewport
+
+commit 6320a350894fe2fb9622824b7b1a1c5b339648ad
+Merge: 280f859 4df7005
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 17:14:45 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 280f859c488343e238198fc9e6349fdb4bb94a25
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 17:14:22 2011 -0600
+
+    bla bla ...
+
+commit 4df70051742464d7536c60ef1a91ef91c5c7d0ff
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 15 16:41:01 2011 -0600
+
+    fixed tabs
+
+commit ffc054761e1002373ba158e57d95f4d4d6df6c4d
+Merge: a833973 8340b0b
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 15 16:38:18 2011 -0600
+
+    Merge branch 'master' of git@sbrossart.dyndns.org:dynamote_development.git
+    
+    Conflicts:
+    	test/fixtures/device_lists.yml
+
+commit a833973d77935c4a445ce54c81c6628d5d3810ae
+Merge: c1e3c58 e76319d
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 15 16:37:14 2011 -0600
+
+    Merge branch 'master' of git@sbrossart.dyndns.org:dynamote_development.git
+    
+    Conflicts:
+    	test/fixtures/device_lists.yml
+
+commit 8340b0b3679ebafe362c72cd0536fbeb1a3d1161
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 16:36:36 2011 -0600
+
+    Added Mike's edits to device_lists.tml (fixture)
+
+commit c1e3c5838d8eccb35b926490256a6fb03b4225d4
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 15 16:36:34 2011 -0600
+
+    changed things back
+
+commit e76319d3c6bf45dfe9efe0e017b319f289472db5
+Merge: c35f0df 6938581
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 16:34:06 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 693858111b0ed4f108738beb1c44428fb6efa834
+Merge: d3e70e4 68f9dee
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 16:33:23 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit c35f0df5d79eac6c942ef96e1ec02c0b57dae33a
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 16:33:16 2011 -0600
+
+    Changed MANUEL to MANUAL
+
+commit d3e70e4f89b0ab5c1e77f0fdac5a316defa16e4f
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 16:32:49 2011 -0600
+
+    mobile site
+
+commit 68f9deee318eb428e52f5d07f685589409fc8e41
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 16:28:20 2011 -0600
+
+    changes to fixtures
+
+commit 443c4f648f285464d44ccb1cb0f2e2ef2f12eb82
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 16:26:05 2011 -0600
+
+    mobile mobile
+
+commit 9bc1cfbb07611d0d088a3c752fec4076e9712d4f
+Merge: 56c247b 8e15a2e
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 16:13:57 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 56c247bed7bd57adb3470a746ea820260c96d7cc
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 15 16:13:46 2011 -0600
+
+    YOUHOUHOU
+
+commit 8e15a2e3b9e440c7ec06d39d6eee057176dc3fc0
+Merge: 966c18c 53e133f
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 15 16:03:18 2011 -0600
+
+    Merge branch 'master' of git@sbrossart.dyndns.org:dynamote_development.git
+    
+    Conflicts:
+    	test/fixtures/availible_icons.yml
+
+commit 966c18c521246ded5f7afa83ca7eb8529206860d
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 15 15:54:29 2011 -0600
+
+    dot rid of device list
+
+commit 53e133f9b983cc33d66d65000fa935ca32dd2bc2
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 15:32:18 2011 -0600
+
+    Fixed the Fixtures (no pun intended)
+
+commit cce26cd941387b9cae721654e0be35220c78a843
+Merge: 725a9e9 54c415f
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 15 14:00:21 2011 -0600
+
+    Merge branch 'master' of git@sbrossart.dyndns.org:dynamote_development.git
+
+commit 725a9e91051a327c87caf586a4b06584fb9586e1
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 15 14:00:11 2011 -0600
+
+    x
+
+commit 54c415fccb12cea2027ae6afd88efaa3c6756d6e
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 13:52:34 2011 -0600
+
+    added some more files for the remote controller
+
+commit f875a46840c8fd82fea84277bf4b37d5734b524f
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 15 13:46:00 2011 -0600
+
+    Set up remote controller
+
+commit 6a0f236a1c436e74cc5b2c85bc8116d7981fdf5a
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Wed Dec 14 23:21:12 2011 -0600
+
+    made changes to the smart phone version of the site
+
+commit 05ff5dd9e74c49e60ca37ff1c36a85177c574a0a
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Wed Dec 14 22:25:34 2011 -0600
+
+    -Added missing translations in spanish local
+    -changed name of install guide to INSTALL.html
+    -added user man (USER_MAN.html)
+    -changed README to inform user of INTALL.html and USER_MAN.html
+    -added the deviceList model ( a call to rake db:migrate) is needed
+    -under "All Devices"  now you just add model number and form is automoatically filled with device info (AJAX)
+    -fixed minor errors in javascript
+
+commit 56ae64b1f275c17b9ea75b9b77981a0d4622cf81
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Mon Dec 12 20:39:00 2011 -0600
+
+    added installation guide.  Still needs links to some resources at the bottom, and possibly some flashy CSS.
+
+commit 107242eca0c568d5a0c6b01ce7aa5f4cc4afe6e7
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Mon Dec 12 20:36:33 2011 -0600
+
+    added backup of original logo
+
+commit 99e5f5d6793b5dbf38f984a5305bfc71ebaa4a04
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 8 23:50:19 2011 -0600
+
+    modified presentation
+
+commit 138c613b92851fe99ef7984eaeea7a5b18dcc9d8
+Author: Michael Carter <mcarter00@gmail.com> AND Stephen Brossart <spbrossart@gmail.com>
+Date:   Thu Dec 8 23:40:38 2011 -0600
+
+    Hard Coded Remotes and Buttons
+
+commit 0308ca32fc656151996ff35be907932c87f9eb31
+Merge: 65d51d0 0c9d382
+Author: Michael Carter <mcarter00@gmail.com> AND Stephen Brossart <spbrossart@gmail.com>
+Date:   Thu Dec 8 23:35:05 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 65d51d0c73afbd83c4b0fb538b43f3a8e110bab3
+Author: Michael Carter <mcarter00@gmail.com> AND Stephen Brossart <spbrossart@gmail.com>
+Date:   Thu Dec 8 23:34:53 2011 -0600
+
+    Hard Coded Remotes and Button Positions
+
+commit 0c9d382d7811d23381000b0b242845f893ba99ec
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 8 23:01:49 2011 -0600
+
+    Changed the view of view all devices to show more relistic devices
+
+commit fe89fc1a69fb9e2d84cd19ff7a721cfde8f318a0
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 8 22:50:07 2011 -0600
+
+    Removing Ds_stores
+
+commit 71c316751ed35035989374aba4799460a3a22214
+Merge: 9216f32 2d67468
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 8 22:44:02 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 9216f321185bb81d2c9ea105db0b866a1f34b265
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 8 22:43:17 2011 -0600
+
+    Changed Main picture
+
+commit 2d674684182daab4a68d30aed2d1ffa323c87ea5
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 8 22:40:48 2011 -0600
+
+    added np mode
+
+commit 0e98befac3dc7ed63fc52c325c3b08e0c8406800
+Merge: c195940 e6ee90e
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 8 22:29:53 2011 -0600
+
+    Merge branch 'master' of git@sbrossart.dyndns.org:dynamote_development.git
+
+commit c195940a7ff878acc336cdcdb5bfd203db76f656
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 8 22:29:33 2011 -0600
+
+    added rainbow mode
+
+commit e6ee90e1eac9d04f0aea19cfc1067ac9255c845b
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 8 22:27:22 2011 -0600
+
+    fixed new remote add button bug
+
+commit fcbca769d8c5310825a5010a4017f4ad8a49c751
+Merge: 59f6014 2216a0b
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 8 22:16:22 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 59f6014eb2e4eb0b023bde060bc06892a8e3b0d7
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Thu Dec 8 22:15:49 2011 -0600
+
+    flashes to diplay infos
+
+commit 2216a0b45b55942bc753ade7136ab50f0e34f976
+Merge: 90fe995 d2acfba
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 8 22:05:58 2011 -0600
+
+    Merge branch 'master' of git@sbrossart.dyndns.org:dynamote_development.git
+    
+    Conflicts:
+    	app/views/layouts/application.html.erb
+
+commit 90fe995e2fd3b53be0c35164ef17feee189197a4
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 8 22:03:25 2011 -0600
+
+    added theme selection
+
+commit d2acfba234ec91f2b74d9649ae83ae3613b2f257
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 8 21:26:38 2011 -0600
+
+    Removed "hello" from top bar
+
+commit af8bdfeea761784d52b94e48c3c8e76bc7424976
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Thu Dec 8 21:17:25 2011 -0600
+
+    Fixed Capitalization
+
+commit 26216bc302a17e12edda5f43180b4418e2f7e59a
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 8 21:09:28 2011 -0600
+
+    see last commit for details
+
+commit 2e4e0a46a45bd7b82dc9c5367ef317a4057cf93b
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Thu Dec 8 21:08:48 2011 -0600
+
+    Hyperlinks hover to white on mouse over
+    -Dynamote logo links to homepage
+    -Builder now has the same layout as the rest of the site (includes nav bar)
+    -"Administration Mode" bar is now at the top
+    -changed site white hyperlink colors to match the exact color of the red in the dynamote logo
+    -added "log_out" to english, french, spanish, and pirate local
+    -added "log_in" to english, french, spanish, and pirate local
+    -infomation and error flashes now fade away again
+    -flash bar is now rounded to fit the rest of the "rounded" feel
+    -Added a link to the User manul and Installation instructions
+    
+    Signed-off-by: Ryan Sanders <rsanders16@gmail.com>
+
+commit 0abfbf2c9d888559dbc99776b19ab19a5ad3401a
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 23:58:44 2011 -0600
+
+    changed the color of inputs shadows to red to fit our theme
+
+commit ee8a54c7da93e110833f1f7788a9b572d8ad30bd
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 23:47:34 2011 -0600
+
+    Changed the view_all view a bit, removed the bug that came with merge ...
+
+commit 9f75763364376fb684c15548bf1ea921b1305022
+Merge: e9abb86 11a488e
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 23:42:24 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit e9abb86a3af0ee20998fa82739ea2d8fbe4446ca
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 23:41:57 2011 -0600
+
+    Improving forms
+
+commit 11a488e6dcb435fb83033f8d69ceb7c2bb0fb035
+Merge: 9da6573 6200cb0
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 23:40:16 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+    
+    Conflicts:
+    	app/views/layouts/application.html.erb
+
+commit 9da65736add0785d2b6890e44a596dddce97f0ae
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 23:38:12 2011 -0600
+
+    edited style.css and the main layout a bit for nicer looking input boxes
+
+commit 6200cb048691302fd01ab8466a2bf6fd07c4fe51
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 22:38:11 2011 -0600
+
+    when login, redirect to home/index
+    updated TODO
+    removed useless link in footer
+
+commit 053737f5f7be9312bf170e34192580d1b90c5022
+Merge: 597a58d d341bee
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 21:46:53 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 597a58d9f9b182a50b54258253e9d413cd8a5a2b
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 21:46:36 2011 -0600
+
+    todo changes
+
+commit d341bee4db6758aebdc6ba64acd1894ca31b2c76
+Merge: f6721a5 5dddc88
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 21:46:07 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit f6721a5eff098725b1db74952631317ae91e8154
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 21:44:52 2011 -0600
+
+    fixed french, small css changes
+
+commit 6eabb9e91c5eb5d222e9bbd1fd9a5023d151091e
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 21:29:16 2011 -0600
+
+    TODO modified
+
+commit 5dddc8879efbfdfdbc2ee81c5a247e4674a060db
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 21:24:01 2011 -0600
+
+    added TODO file and added link at bottom to presentation
+
+commit 0e57d1d61f17ee83a00850f0919030499e66e2c6
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 21:21:40 2011 -0600
+
+    rounder corners
+
+commit 1dcb418834eb7fc1c5f21e179b5c887e2486d08e
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 21:17:51 2011 -0600
+
+    styles stuff
+
+commit b5dbe918344a4e513ac6f8eb54422452697e7654
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 21:12:05 2011 -0600
+
+    Modified application layout with link to Presentation
+
+commit 61f6d05d572bd8a7576edc209d3a7694050a8f1f
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 21:04:29 2011 -0600
+
+    Added powerpoint
+
+commit ad63f6908bb819dfc376fd7c0928dcc4f99a5d32
+Merge: d668894 afc393c
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 20:49:10 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development into server
+
+commit afc393ca6baf65b7d8835ce9eeaabc1efb19d09d
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 20:45:40 2011 -0600
+
+    add tab fixed
+
+commit d66889445a166d03d7e23911740c2d2dbd75e1d4
+Merge: 6af3aa0 390fa1c
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 20:41:19 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development into server
+    
+    Conflicts:
+    	public/xml/devices.xml
+    	public/xml/remotes.xml
+
+commit 390fa1c34c5f6ab44598c0c68b35cd782e36511a
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 20:38:45 2011 -0600
+
+    GUI modification
+
+commit 6af3aa080e6a5544bac9a82e6a2c692e1bf1c170
+Merge: db4cc0f eb4766c
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 20:33:01 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development into server
+    
+    Conflicts:
+    	app/assets/javascripts/builder.js
+
+commit db4cc0f18b5a1e21c9889db47fa91081bd38d0dd
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 20:27:51 2011 -0600
+
+    Working on slideshow in Public folder
+
+commit eb4766c791f3e0f3b3a5e60309a989b415adad38
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 20:18:21 2011 -0600
+
+    Changed some stuff on the builder ...
+
+commit 954ca4ce8df3ed3a2c564cf1cd54d733c4745015
+Merge: 41303e3 181e230
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 18:02:28 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 41303e3dc945b69aa3a615c31c9eb97dcaea815a
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Wed Dec 7 18:01:55 2011 -0600
+
+    Trying to add a mobile site
+
+commit 80af5af894b1d50cba82d76788cccfaf135cec80
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 10:26:03 2011 -0600
+
+    added missing images and stylesheets for deck.js
+
+commit 181e230a772d35e6422fa52176ce0eb8b279a63c
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Wed Dec 7 10:19:39 2011 -0600
+
+    Fixed French Locale.  YAY
+
+commit febf39ce049fdabe471279fa1c5a3cb4bcca96f2
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Dec 4 13:55:01 2011 -0600
+
+    Still a problem with english being french, and french being english
+
+commit ad163a52fe58afc78a5a3087b22e8147aaacd471
+Merge: 1addbcb 357c853
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Sun Dec 4 13:41:39 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 1addbcbfe5f65d48ea0645397b89786a5f5597ad
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Sun Dec 4 13:41:16 2011 -0600
+
+    New locale
+
+commit 357c8530ba870f0299ad898cfdb75f11e79e5b0b
+Author: Michael Carter <mcarter00@gmail.com> AND Stephen Brossart <spbrossart@gmail.com>
+Date:   Sun Dec 4 13:38:48 2011 -0600
+
+     added new pictures
+
+commit 5148cf2621d6c2e3b2ef421b028e87060578f195
+Merge: b6b4182 640528f
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Sun Dec 4 13:19:23 2011 -0600
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit b6b4182446256052e8683fffd72d18d5b0c6fed4
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Sun Dec 4 13:18:26 2011 -0600
+
+    New builder version implementing AJAX CSS retrieval
+
+commit 640528f513f874b34cc71727c6a779f4ad4e01db
+Author: Michael Carter <mcarter00@gmail.com> AND Stephen Brossart <spbrossart@gmail.com>
+Date:   Sun Dec 4 13:17:32 2011 -0600
+
+    updated images and archived old images.
+
+commit 6d43b5a23fa4ab14be8511eb50195fcabb466abb
+Author: Michael Carter <mcarter00@gmail.com> AND Stephen Brossart <spbrossart@gmail.com>
+Date:   Sun Dec 4 13:08:26 2011 -0600
+
+    Added images to database fixtures along with test data. Tweaked migrations.
+
+commit da7d4e213305856e9c1e984ff9d9c23775278e64
+Merge: 7e141e8 ce40f42
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Sun Dec 4 11:19:45 2011 -0600
+
+    Merge branch 'master' of git@sbrossart.dyndns.org:dynamote_development.git
+
+commit 7e141e844b2640e5778e1b2b8f4261e762f810ce
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Sun Dec 4 11:17:48 2011 -0600
+
+    xml file
+
+commit ce40f42396e7db51bc792df44b07437b7ebded44
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Sun Dec 4 10:03:23 2011 -0600
+
+    devices.xml added
+
+commit 55c27db4336ccdc517d6a43606534227fc531213
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Sun Dec 4 09:53:18 2011 -0600
+
+    xml file !
+
+commit 0d8463ae69578cad1f5b02fb8c4d86ddbd260282
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Dec 4 09:18:48 2011 -0600
+
+    added missing locales
+
+commit 8477023a750027f813deb706315f3245968e0384
+Author: Michael Carter <mcarter00@gmail.com> AND Stephen Brossart <spbrossart@gmail.com>
+Date:   Fri Nov 25 09:40:05 2011 -0600
+
+    Updated buttons with new ones (pngs seem to work just as well), changed first time login functionality to simplify. The first time start page should no longer be needed. Added a logo to the home page to fill it out.  Login and Create New Account now appear on the home page.
+
+commit c9a9a6529e2efbdfcf2781e5c727d4002b26ffa5
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Mon Nov 21 11:21:28 2011 -0600
+
+    Cleaned up application layout
+
+commit 98362ae7b57c39a5de4d835e7f8fc79bfb8fd2b9
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Mon Nov 21 09:58:00 2011 -0600
+
+    Small Changes.  Testing Git.
+
+commit 70d4957e2075c34c257e8839de2dc43036dfc6b1
+Merge: c9530c7 9e447b6
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Nov 20 21:46:03 2011 -0600
+
+    Merge branch 'master' into john-11-19-2011
+    
+    Conflicts:
+    	.DS_Store
+
+commit 9e447b6125140c4044c8a294e9a25fac5d506e5b
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Nov 20 21:42:05 2011 -0600
+
+    DS_Store commit
+
+commit c9530c7ec1da85c6807052a0f609a12d5379f106
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Nov 20 17:54:04 2011 -0600
+
+    Implemented the Controllers/Models/Views from Ryan's login system.  Still have big UI flaws but everything else seems to work in the same way.
+    
+    NOTE: Ryan is using an "Accounts" model.  This should either take over for the "Users" model or they should be working together very closely.
+
+commit a4441f81592810fda89cedf7c7de547731b0db30
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sat Nov 19 18:08:44 2011 -0600
+
+    Problems with the git push.  added all files this time
+
+commit 61916611e8a7724e2e0ba7f206564c07fbe6ad93
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sat Nov 19 17:58:08 2011 -0600
+
+    Updated the style.css.  Clear tabs, better style.
+
+commit 7464e13c443e631323428ddc43009e40c9373d83
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sat Nov 19 16:51:59 2011 -0600
+
+    Added Basics for web layout.
+
+commit dc681e1ecacb3ff30c840e50e56dba7c684c9846
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sat Nov 19 09:02:23 2011 -0600
+
+    Added new UI.  Fixed Bug related to the 'close' button not being aligned to the top right corner when a new tab is added.
+
+commit d6671a4d68a417520b4cfd3abd49e504b53d1649
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Mon Nov 14 10:56:36 2011 -0600
+
+    Another test commit.
+
+commit 9076418c2b7436645bc8dadece5f911d4eeef422
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Mon Nov 14 10:54:25 2011 -0600
+
+    Changed the readme for a post-recieve hook test.
+
+commit 016c8964a3756aff95cc150036c2cad7154f4469
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sat Nov 12 09:43:56 2011 -0600
+
+    Master push for ui integration with 960 grid system.  This essentailly wraps sylvain's jQuery work in a div container.  Fixed issues with integrating jQuery.  Got pictures to work as well.
+
+commit 4be6888e4d02822219b6f08442eea542d2503d00
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sat Nov 12 09:34:31 2011 -0600
+
+    Integrated 960 grid system, and fixed errors resulting from merging the builder into rails.
+    TODO:
+    Make test 'user' on database, set up login functionality, and try to save remotes to database using AJAX
+
+commit 5e71ba73a9b9c1abd361c18ebb130b22ff1a5ed3
+Author: Michael Carter <mcarter00@gmail.com> AND Stephen Brossart <spbrossart@gmail.com>
+Date:   Mon Nov 7 22:00:41 2011 -0600
+
+    wrote migrations.
+
+commit e8b25419790655d6a1e6c246b6f757fe4ff63990
+Author: Michael Carter <mcarter00@gmail.com> AND Stephen Brossart <spbrossart@gmail.com>
+Date:   Mon Nov 7 21:23:23 2011 -0600
+
+    named database columns (although columns are not yet final).
+
+commit dda64da0a466b4263c9097ece7a046ad20d50701
+Author: Michael Carter <mcarter00@gmail.com> AND Stephen Brossart <spbrossart@gmail.com>
+Date:   Mon Nov 7 19:34:43 2011 -0600
+
+    Stephen and Mike's Database Models
+
+commit 22562bc3a8ad1b06477704e67fbc191cb947a872
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Oct 30 19:42:14 2011 -0500
+
+    added wizard page
+
+commit ff60eca6c4d38d22e047e9c18bb407f3055a4161
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Oct 30 19:41:28 2011 -0500
+
+    added wizard page
+
+commit e428ef87bcf1b34de1a1e6d8c556f6631be25cfc
+Merge: 3f111a5 4807348
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Oct 30 19:10:54 2011 -0500
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 3f111a56e5907b59108b3f79fbbe14585e096ce5
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Oct 30 19:10:03 2011 -0500
+
+    basic login routes and controllers working
+
+commit 480734885753dbfda67cc1863d4e11141880706f
+Author: Ryan Sanders <rsanders16@gmail.com>
+Date:   Sun Oct 30 18:44:48 2011 -0500
+
+    deleted ryans file
+
+commit ccfef68d27acd1d99849e623c7ddcd51d43ed4f7
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Sun Oct 30 17:40:20 2011 -0500
+
+    Hello there
+
+commit 9ab8dc5a74a655e50069d73934ac7e6fdfc502a6
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Oct 30 17:34:32 2011 -0500
+
+    removed JOHNSFILE
+
+commit 7f4404f7a921a431177bf3e50ff0cc8928b6adde
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Oct 30 17:33:59 2011 -0500
+
+    edited RYANSFILE
+
+commit 29a2efc21c3fcc71894412ff72a5f2d28d197152
+Merge: 47b0214 16f3b4f
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Oct 30 17:32:50 2011 -0500
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit 47b0214f235d55f823fb93a8d352127b6e350ec0
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Sun Oct 30 17:31:51 2011 -0500
+
+    Added JOHNSFILE
+
+commit 16f3b4f39b5bcaa1dab403737dcbdf0eab80716e
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Sun Oct 30 17:30:11 2011 -0500
+
+    another test
+
+commit 70d442c04b5f90977693303da1cf4ff82d31ae66
+Merge: e8204a9 d5b2231
+Author: Sylvain Heiniger <sylvainh@iastate.edu>
+Date:   Sun Oct 30 17:26:59 2011 -0500
+
+    Merge branch 'master' of sbrossart.dyndns.org:dynamote_development
+
+commit d5b2231b1ca6fa068dcf6ff6e32f8e73818cb64a
+Author: Ryan Sanders <ryansanders@ubuntu.(none)>
+Date:   Sun Oct 30 17:17:56 2011 -0500
+
+    ryans commit
+
+commit e8204a9efce25f54305d09bd58a12b4e141bfef8
+Author: Sylvain Heiniger <sploutchy@brigitte.(none)>
+Date:   Sun Oct 30 17:17:24 2011 -0500
+
+    Edited README for testing purposes
+
+commit 76fff626d7a79b85ee94be7cfecd537a1eb3b89e
+Author: John Ryan <john.p.ryan4@gmail.com>
+Date:   Mon Oct 24 12:34:01 2011 -0500
+
+    Initial Dynamote Push to Server

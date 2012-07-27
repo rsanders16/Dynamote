@@ -1,0 +1,51 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+pirate:
+  edit_your_account: Change Ye Locker
+  username: Yename
+  old_password: Old Secret
+  new_password: New Secret
+  name: Name
+  language: Language
+  you_must_be_logged_in_to_add_a_user: Arrr! Ye must be logged in to add a user
+  you_must_be_an_administrator_to_add_a_user: Arrr! Ye must be a captin to add a user
+  the_data_you_entered_was_not_valid: Arrr! The info ye entered was not what we like
+  the_username_already_exists_try_another_one: Arrr!  This username already exists, try another one
+  account_was_created_successfully: Arrr! Account was created successfully
+  you_must_be_logged_in_to_preform_this_action: Arrr! Ye must be logged in to preform this action
+  you_must_be_an_administrator_to_view_all_accounts: Arrr! Ye must be an administrator to view all accounts
+  to_complete_this_action_no_account_may_be_in_the_database: Arrr! To complete this action, no account may be in the database
+  admin_account_created: Arrr! Captin account was created successfully and ye are now logged in
+  an_error_happened_while_fetching_account_data: Arrr! An error happened while fetching account data
+  you_must_be_logged_in_to_delete_an_account: Arrr! Ye must be logged in to delete an account
+  you_must_be_an_administrator_to_delete_a_user: Arrr! Ye must be an administrator to delete a user
+  you_cannot_delete_the_first_admin_account: Arrr! Ye cannot delete the first admin account created
+  you_cannot_delete_your_own_account_logout_and_have_another_admin_complete_this_task: Arrr! Ye cannot delete ye own account, logout have another administrator complete this task
+  account_was_deleted: Account was deleted
+  an_error_happened_while_fetching_your_account_data_please_re_login: Arrr! An error happened while fetching ye account data please re-login
+  an_error_happened_you_are_being_logged_out: Arrr! An error happened ye are being logged out
+  you_must_be_logged_in_to_edit_an_account: Arrr! Ye must be logged in to edit an account
+  new_password_does_not_match_the_old_password: Arrr! New password does not match the old password
+  name_field_must_not_be_empty: Arrr! Name field must not be empty
+  your_account_info_has_been_updated: Arrr! Ye account info has been updated
+  you_have_successfully_logged_in: Arrr! Ye have successfully logged in
+  you_have_successfully_logged_out: Arrr! Ye have successfully logged out
+  login_unsuccessful: Arrr!  Login Unsuccessful
+  all_accounts: Arrr! All Accounts
+  all_devices: Arrr! All Devices
+  home_page: Arrr! Home Page
+  edit_account: Edit Ye Locker
+  theme: Arr! Theme
+  Welcome: Arr ahoy
+  administator_mode: CAPTIN MODE
+  logout: Jump the plank
+  manage_accounts: Slap ye crew
+  edit_your_account: Clean ye locker
+  view_all_devices: Eye ye ships
+  your_remote: Ye ship
+  you_must_be_an_administrator_to_reset_dynamote: Arr ye cant reset Dynamote
+  you_must_be_logged_in_to_reset_dynamote: You must be logged in to reset Dynamote
+  reset_dynamote: Reset Ye Dynamote
+  log_in: Come Abard
+  log_out: Jump the plank!

@@ -1,0 +1,232 @@
+/* ============== */
+/* = Page Style = */
+/* ============== */
+html
+{
+	/*NOW SET DYNAMICLY */
+	/*background:black url(/images/bg.png);/ */
+}
+
+/* FOR NICE LOOKING INPUT BOXES */
+input {  
+    padding: 5px;  
+    font-size: 15px;  
+    text-shadow: 0px 1px 0px #fff;  
+    outline: none;  
+    background: -webkit-gradient(linear, left top, left bottombottom, from(#bcbcbe), to(#ffffff));  
+    background: -moz-linear-gradient(top,  #bcbcbe,  #ffffff);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;  
+    border: 1px solid #717171;
+    -webkit-box-shadow: 1px 1px 0px #efefef;  
+    -moz-box-shadow: 1px 1px 0px #efefef;
+    box-shadow:  1px 1px 0px #efefef;
+}
+input[type=checkbox],
+input[type=radio] {
+	display: inline-block;
+	font-size: 15px;
+	line-height: 1em;
+	margin: 0 0.25em 0 0;
+	padding: 0;
+   width: 1.25em;
+   height: 1.25em;
+   -webkit-border-radius: 0.25em;
+   vertical-align: text-top;
+ }
+input[type=checkbox]:checked {
+   -webkit-background-size: 28px 28px; /* shrink high resolution background */
+ }
+
+ input[type=radio] {
+    -webkit-border-radius: 2em; /* Make radios round */
+  }
+}
+
+/* END NICE LOOKING INPUT BOXES */
+select {
+   height: 2em;
+   padding: 5px;
+   font-size:15px;
+}
+input:focus {
+    -webkit-box-shadow: 0px 0px 5px #D21900;
+    -moz-box-shadow: 0px 0px 5px #D21900;
+    box-shadow: 0px 0px 5px #D21900;
+}
+.content
+{
+	background-color:#E8E8E8;
+	background-image:url(/images/dm_content_bg.jpg);
+	background-origin:content-box;
+	background-position:right bottom;
+	background-repeat: no-repeat;
+	min-height: 400px;
+}
+body
+{
+	font: 90% "Trebuchet MS", sans-serif;
+}
+.translation_missing {
+	color: red;
+}
+
+/* ===================== */
+/* = Login/Menu Styles = */
+/* ===================== */
+#notice_bar
+{
+    height: 30px;
+    padding-top: 14px;
+    background-color: #CCFFCC;
+    color: #999999;
+    padding-left: 10px;
+}
+#error_bar
+{
+   height: 30px;
+   padding-top: 14px;
+   background-color: #FFCCFF;
+   color:  #999999;
+    padding-left: 10px;
+}
+#flash_bar
+{
+   height: 30px;
+   margin-bottom:10px;
+   font-weight: bold;
+
+}
+#logout_button
+{
+    float:left;
+}
+#greeting
+{
+    font-weight: bold;
+    color: black;
+    padding-left: 10px;
+    padding-top: 6px;
+}
+#navbar
+{
+    background-color: #CCCCCC;
+    height: 30px;
+}
+.hidden
+{
+    visibility:hidden;
+}
+.hidden_cell
+{
+    background-color: #EEEEEE;
+    color: #DDDDDD;
+}
+#main_content_box
+{
+
+ background-color:gray;
+ width: 90%;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+a:link {color:#c12d2e; text-decoration: none}
+a:visited {color: #c12d2e; text-decoration: none}
+a:hover {color: white; text-decoration: none}
+a:active {color: #c12d2e; text-decoration: none}
+
+
+tr
+{
+    text-align:left;
+}
+
+#tenpxspacer
+{
+    text-indent: -9999px;
+}
+#login-form input {
+	color: gray;
+}
+
+/* ================= */
+/* = Builder Style = */
+/* ================= */
+#tabs-list {
+	background:transparent;
+}
+#plus-button {
+	margin-bottom:0px;
+	padding-bottom:0px;
+}
+
+.tab_size_fixer {
+	
+	overflow-y:hidden;
+	max-height:39px;
+	opacity:0.7;
+}
+.ui-tabs-selected {
+	opacity:1;
+}
+.ui-droppable {
+	background:transparent;
+}
+.tab_size_fixer, a{
+	float:right;
+}
+.close_fixer {
+	float:top-right;
+}
+#library {
+    width: 120px;
+    padding: 5px;
+	position: relative;
+	float: left;
+}
+#device-selector {
+    /*width:100%;*/
+}
+#buttons-trash {
+    margin: 10px;
+    padding: 5px 5px 5px 15px;
+}
+#tabs {
+	display: inline-block;
+	width:100%;
+	/*position: relative;*/
+}
+.remote-container {
+	float: left;
+	margin-left: 40%;
+    border: 2px outset black;
+}
+.remote-container .label {
+	font: bold 18pt arial, sans-serif gray;
+	color: gray;
+	text-align: center;
+	border-bottom: 1px solid #BFBFBF;
+}
+.remote .buttons-list {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+}
+.remote-button {
+	list-style: none;
+	position: absolute;
+}
+#library .buttons-list {
+	clear: both;
+	display: none;
+	padding:0;
+}
+.library-button {
+	float: left;
+	list-style: none;
+}
+.hovered {
+    border-color: red;
+}
